@@ -9,6 +9,11 @@
 *.user
 *.userosscache
 *.sln.docstates
+Snake-Game.sln
+Snake-Game.vcxproj
+Snake-Game.vcxproj.filters
+Snake-Game.vcxproj.user
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
